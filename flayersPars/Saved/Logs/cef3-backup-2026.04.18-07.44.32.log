@@ -1,0 +1,19 @@
+[7264:7372:0418/181633.673:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7264:3988:0418/181633.724:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7264:7372:0418/181633.768:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7264:7372:0418/181641.338:ERROR:device_event_log_impl.cc(196)] [18:16:41.182] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[11048:10088:0418/181643.192:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-23BA4A363C9028217915C4F8E7892518 will be ignored
+[14692:4352:0418/181647.004:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-4CB957002405262D94507426932C80DB will be ignored
+[876:3576:0418/181647.071:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[876:6644:0418/183707.868:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[876:6644:0418/183707.873:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1920x976
+[876:6644:0418/183707.873:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 1x1 to 1920x976 (100% of ideal size)
+[876:6644:0418/183708.045:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #29).
+[876:6644:0418/183708.052:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #29).
+[876:6644:0418/183708.061:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #29).
+[876:6644:0418/183708.069:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #29).
+[876:6644:0418/183708.077:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #29).
+[876:6644:0418/183708.086:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #29).
+[876:6644:0418/183708.094:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #29).
+[7264:9108:0418/184244.615:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7264:7372:0418/184432.224:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

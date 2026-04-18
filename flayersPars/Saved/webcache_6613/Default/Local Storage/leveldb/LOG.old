@@ -1,0 +1,22 @@
+2026/04/18-20:19:09.463 187c Reusing MANIFEST C:\Users\foral\Documents\Unreal Projects\flayersPars\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/18-20:19:09.468 187c Recovering log #9
+2026/04/18-20:19:09.469 187c Level-0 table #12: started
+2026/04/18-20:19:09.474 187c Level-0 table #12: 75509 bytes OK
+2026/04/18-20:19:09.474 187c Recovering log #12
+2026/04/18-20:19:09.476 187c Reusing old log C:\Users\foral\Documents\Unreal Projects\flayersPars\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/04/18-20:19:09.478 187c Delete type=0 #9
+2026/04/18-20:43:24.298 2e14 Level-0 table #14: started
+2026/04/18-20:43:24.302 2e14 Level-0 table #14: 67157 bytes OK
+2026/04/18-20:43:24.304 2e14 Delete type=0 #12
+2026/04/18-20:43:47.665 187c Level-0 table #16: started
+2026/04/18-20:43:47.674 187c Level-0 table #16: 73514 bytes OK
+2026/04/18-20:43:47.677 187c Delete type=0 #13
+2026/04/18-20:43:47.679 187c Compacting 4@0 + 1@1 files
+2026/04/18-20:43:47.684 187c Generated table #17@0: 8 keys, 20458 bytes
+2026/04/18-20:43:47.685 187c Compacted 4@0 + 1@1 files => 20458 bytes
+2026/04/18-20:43:47.685 187c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/18-20:43:47.686 187c Delete type=2 #8
+2026/04/18-20:43:47.686 187c Delete type=2 #10
+2026/04/18-20:43:47.686 187c Delete type=2 #12
+2026/04/18-20:43:47.686 187c Delete type=2 #14
+2026/04/18-20:43:47.686 187c Delete type=2 #16

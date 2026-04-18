@@ -1,0 +1,83 @@
+[6376:20948:0418/201909.326:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6376:10144:0418/201909.371:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6376:20948:0418/201909.394:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6376:20948:0418/201914.512:ERROR:device_event_log_impl.cc(196)] [20:19:14.507] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[20152:4080:0418/201914.951:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1A2B996DD69FF63D79722E0CD29EAE65 will be ignored
+[14368:17140:0418/201918.669:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-58DA60A48ACA412522CD4107A4F84A68 will be ignored
+[18132:4576:0418/201918.737:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5832:6760:0418/201920.091:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 29
+[18132:16132:0418/204253.009:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[18132:16132:0418/204253.010:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1920x976
+[18132:16132:0418/204253.010:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 1x1 to 1920x976 (100% of ideal size)
+[18132:16132:0418/204253.173:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.181:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.189:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.198:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.207:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.215:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.224:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.234:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.241:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.249:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.257:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204253.258:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #28).
+[18132:16132:0418/204259.949:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #170).
+[18132:16132:0418/204259.966:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #170).
+[18132:16132:0418/204300.032:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #173).
+[18132:16132:0418/204300.081:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #175).
+[18132:16132:0418/204300.098:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #175).
+[18132:16132:0418/204300.168:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #178).
+[18132:16132:0418/204300.239:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #181).
+[18132:16132:0418/204300.249:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #181).
+[18132:16132:0418/204300.312:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #184).
+[18132:16132:0418/204300.328:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #184).
+[18132:16132:0418/204300.395:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #187).
+[18132:16132:0418/204301.063:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #212).
+[18132:16132:0418/204301.129:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #215).
+[18132:16132:0418/204301.179:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #217).
+[18132:16132:0418/204301.195:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #217).
+[18132:16132:0418/204301.262:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #220).
+[18132:16132:0418/204301.278:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #220).
+[18132:16132:0418/204301.345:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #223).
+[18132:16132:0418/204301.412:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #226).
+[18132:16132:0418/204301.428:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #226).
+[18132:16132:0418/204301.479:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #228).
+[18132:16132:0418/204301.496:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #228).
+[18132:16132:0418/204311.162:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #374).
+[18132:16132:0418/204311.178:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #374).
+[18132:16132:0418/204311.229:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #376).
+[18132:16132:0418/204311.246:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #376).
+[18132:16132:0418/204311.312:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #379).
+[18132:16132:0418/204311.329:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #379).
+[18132:16132:0418/204311.396:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #382).
+[18132:16132:0418/204311.446:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #384).
+[18132:16132:0418/204311.461:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #384).
+[18132:16132:0418/204311.512:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #386).
+[18132:16132:0418/204311.528:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #386).
+[18132:16132:0418/204311.545:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #386).
+[18132:16132:0418/204311.596:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #388).
+[18132:16132:0418/204311.611:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #388).
+[18132:16132:0418/204311.678:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #391).
+[18132:16132:0418/204311.729:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #393).
+[18132:16132:0418/204311.746:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #393).
+[18132:16132:0418/204311.761:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #393).
+[18132:16132:0418/204311.811:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #395).
+[18132:16132:0418/204311.828:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #395).
+[18132:16132:0418/204311.878:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #397).
+[18132:16132:0418/204311.895:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #397).
+[18132:16132:0418/204311.946:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #399).
+[18132:16132:0418/204311.961:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #399).
+[18132:16132:0418/204311.979:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #399).
+[18132:16132:0418/204312.030:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #401).
+[18132:16132:0418/204312.045:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #401).
+[18132:16132:0418/204312.111:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #404).
+[18132:16132:0418/204312.178:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #407).
+[18132:16132:0418/204312.195:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #407).
+[18132:16132:0418/204312.262:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #410).
+[18132:16132:0418/204312.328:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #413).
+[18132:16132:0418/204312.396:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #416).
+[18132:16132:0418/204343.879:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1026).
+[18132:16132:0418/204343.896:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1026).
+[18132:16132:0418/204343.962:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #1029).
+[6376:3472:0418/205118.673:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6376:20948:0418/205913.848:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
